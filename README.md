@@ -8,7 +8,7 @@ Alireza is a Self-taught Junior JavaScript (TypeScript) Developer who is mostly 
 
 * 🌍  I'm based in Tehran
 * ✉️  You can contact me at [alirezasoheili1224@yahoo.com](mailto:alirezasoheili1224@yahoo.com)
-* 🧠  I'm learning everything typescript
+* 🧠  I'm trying to learn everything related to typescript
 
 ### Skills
 
